@@ -2,6 +2,6 @@
   {
     "package": "uem915light",
     "url": "https://github.com/fdumbioinfo/uem915light",
-    "branch":"master"
+    "remotes":"master"
   }
 ]
