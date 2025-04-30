@@ -8,5 +8,45 @@
     "package": "moalannotgene",
     "url": "https://github.com/fdumbioinfo/moalannotgene",
     "remotes":"master"
+  },
+  {
+    "package": "moalannotensg",
+    "url": "https://github.com/fdumbioinfo/moalannotensg",
+    "remotes":"master"
+  },
+  {
+    "package": "moalannotenst",
+    "url": "https://github.com/fdumbioinfo/moalannotenst",
+    "remotes":"master"
+  },
+  {
+    "package": "moalannotensp",
+    "url": "https://github.com/fdumbioinfo/moalannotensp",
+    "remotes":"master"
+  },
+  {
+    "package": "moalstringdbhs",
+    "url": "https://github.com/fdumbioinfo/moalstringdbhs",
+    "remotes":"master"
+  },
+  {
+    "package": "moalstringdbmm",
+    "url": "https://github.com/fdumbioinfo/moalstringdbmm",
+    "remotes":"master"
+  },
+  {
+    "package": "moalstringrn",
+    "url": "https://github.com/fdumbioinfo/moalstringdbrn",
+    "remotes":"master"
+  },
+  {
+    "package": "moalstringdbdr",
+    "url": "https://github.com/fdumbioinfo/moalstringdbdr",
+    "remotes":"master"
+  },
+  {
+    "package": "moalstringdbss",
+    "url": "https://github.com/fdumbioinfo/moalstringdbss",
+    "remotes":"master"
   }
 ]
