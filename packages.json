@@ -48,5 +48,11 @@
     "package": "moalstringdbss",
     "url": "https://github.com/fdumbioinfo/moalstringdbss",
     "remotes":"master"
+  },
+  {
+    "package": "moal",
+    "url": "https://github.com/fdumbioinfo/moal",
+    "remotes":"master"
   }
+
 ]
