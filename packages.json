@@ -35,7 +35,7 @@
     "remotes":"master"
   },
   {
-    "package": "moalstringrn",
+    "package": "moalstringdbrn",
     "url": "https://github.com/fdumbioinfo/moalstringdbrn",
     "remotes":"master"
   },
