@@ -55,7 +55,7 @@
     "remotes":"master"
   },
   {
-    "package": "lima",
+    "package": "limma",
     "url": "https://github.com/fdumbioinfo/limma",
     "remotes":"master"
   }
