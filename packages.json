@@ -53,10 +53,5 @@
     "package": "moal",
     "url": "https://github.com/fdumbioinfo/moal",
     "remotes":"master"
-  },
-  {
-    "package": "limma",
-    "url": "https://github.com/fdumbioinfo/limma",
-    "remotes":"master"
   }
 ]
