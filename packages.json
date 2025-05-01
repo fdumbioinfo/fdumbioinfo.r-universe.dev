@@ -1,10 +1,5 @@
 [
   {
-    "package": "uem915light",
-    "url": "https://github.com/fdumbioinfo/uem915light",
-    "remotes":"master"
-  },
-  {
     "package": "moalannotgene",
     "url": "https://github.com/fdumbioinfo/moalannotgene",
     "remotes":"master"
