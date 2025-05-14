@@ -48,5 +48,10 @@
     "package": "moal",
     "url": "https://github.com/fdumbioinfo/moal",
     "remotes":"master"
+  },
+  {
+    "package": "uem915",
+    "url": "https://github.com/fdumbioinfo/moalannotgene",
+    "remotes":"master"
   }
 ]
